@@ -1,0 +1,42 @@
+[
+ {
+  "account": "us_momentum",
+  "title": "美股动量",
+  "currency": "$"
+ },
+ {
+  "account": "a_alpha101",
+  "title": "A股 Alpha101 全因子",
+  "currency": "¥"
+ },
+ {
+  "account": "a_equal_weight",
+  "title": "A股 流动性500等权",
+  "currency": "¥"
+ },
+ {
+  "account": "a_ths_heat",
+  "title": "A股 同花顺热度",
+  "currency": "¥"
+ },
+ {
+  "account": "a_ths_heat_rise",
+  "title": "A股 同花顺热度上升",
+  "currency": "¥"
+ },
+ {
+  "account": "a_ths_attention_weighted",
+  "title": "A股 注意力加权组合",
+  "currency": "¥"
+ },
+ {
+  "account": "a_ths_attention_funnel",
+  "title": "A股 注意力逐层筛选",
+  "currency": "¥"
+ },
+ {
+  "account": "a_intraday_6m",
+  "title": "A股 分钟线量价因子",
+  "currency": "¥"
+ }
+]
